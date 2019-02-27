@@ -1,0 +1,16 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://SerhatKayacan.github.io/carsNew",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
